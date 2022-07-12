@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Val16eria&theme=highcontrast)](https://git.io/streak-stats)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Val16eria)](https://github.com/anuraghazra/github-readme-stats)
